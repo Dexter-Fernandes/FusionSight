@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ Key Features
+<!-- ## ✨ Key Features
 
 | 🔹 | What | Why it matters |
 |----|------|----------------|
@@ -36,4 +36,4 @@
 
 ```bash
 docker run --rm -it \
-  ghcr.io/<you>/fusionsight-infer:latest
+  ghcr.io/<you>/fusionsight-infer:latest -->
